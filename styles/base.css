@@ -79,6 +79,18 @@ iframe {
   object-fit: cover;
 }
 
+.banner-text {
+  display: inline-block;
+  margin: auto;
+  padding: 3rem;
+  width: auto;
+  text-align: left;
+  background: #ffbf00;
+  color: green;
+  border: 10px solid #4b5320;
+  font-size: 3.5rem;
+}
+
 
 .profile-img {
   max-height: 50vh;
