@@ -70,8 +70,15 @@ iframe {
   padding: 1rem;
 }
 
+.banner {
+  min-height: 25vh;
+  padding: 5rem 1rem;
+}
+
+
 .profile-img {
   max-height: 50vh;
   width: auto;
   border-radius: 50%;
 }
+
