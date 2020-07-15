@@ -89,6 +89,7 @@ iframe {
   color: green;
   border: 10px solid #4b5320;
   font-size: 3.5rem;
+  max-width: 300px;
 }
 
 
